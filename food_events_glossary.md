@@ -8,14 +8,16 @@ The mice are on an inverted light cycle: lights are OFF (dark, active phase) fro
 
 The arena is a 30.48 cm acrylic square open field. It has two FED3 pellet feeders mounted on opposite walls and a hydrogel water source. Pose is tracked with DeepLabCut (I'm working on moving things to SLEAP) and condense into a single CGM-anchored body centroid per frame at about 30 FPS. The CGM is the most reliable tracked body part, hence why I picked it as the anchor.
 
-<img width="1394" height="952" alt="calibration_preview" src="https://github.com/user-attachments/assets/fb821832-6ccb-43f7-8493-c59c97fbd7f4" />
+
+<img width="1394" height="952" alt="calibration_preview" src="https://github.com/user-attachments/assets/f498780c-36eb-4f7e-8204-ce878ee7612c" />
 
 
 
 ## 2. Sessions day-by-day
 
 
-<img width="4444" height="2300" alt="image" src="https://github.com/user-attachments/assets/4645791c-79b2-4a96-b17c-3327a1cb29a3" />
+<img width="4444" height="2300" alt="image" src="https://github.com/user-attachments/assets/4c1218ab-a513-40e6-bba9-0abbdf88a158" />
+
 
 | Date | Day | Feeders | Special manipulation | Source | Mice |
 |---|---|---|---|---|---|
@@ -33,7 +35,7 @@ The arena is a 30.48 cm acrylic square open field. It has two FED3 pellet feeder
 
 **Day 6 (cricket day):** Each mouse was given 8 food items in a fixed order: three crickets, a grain pellet, three more crickets, and a sucrose pellet (C1, C2, C3, grain, C4, C5, C6, sucrose), one about every 15 minutes, with a roughly 30-minute gap before the grain. FED3s were on but empty, so the timing of the food events was coded using Datavyu.
 
-<img width="3261" height="2005" alt="image" src="https://github.com/user-attachments/assets/428bfeeb-f4b8-4327-8db0-c731e6c9508c" />
+<img width="3261" height="2005" alt="image" src="https://github.com/user-attachments/assets/fb1dcc19-be2f-447a-8241-3563b4843c59" />
 
 
 **Day 7 (grain-sucrose fasted):** Standard two-FED3 session with grain and sucrose available simultaneously from opposite walls (like in Day 5), but run after a 14-hour fast. B61 only, because B62's CGM sensor detached the day before.
